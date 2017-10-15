@@ -1,4 +1,4 @@
-baseurl = "oscarzambrano.name/"  
+baseurl = "/"  
 title = "Academic"
 copyright = "&copy; 2017 Your Name"
 theme = "hugo-academic"
