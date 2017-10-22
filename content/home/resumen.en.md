@@ -30,6 +30,6 @@ weight = 5
 
 ## Resumen
 
-Cuenta con  experiencia en el desarrollo y ajuste de modelos estadísticos para análisis y predicción de datos del tipo económicos, sociales y comerciales en el sector público y privado, asi mismo posee alto desenvolvimiento en el área de base de datos y programación.
+Oscarx cuenta con  experiencia en el desarrollo y ajuste de modelos estadísticos para análisis y predicción de datos del tipo económicos, sociales y comerciales en el sector público y privado, asi mismo posee alto desenvolvimiento en el área de base de datos y programación.
 
 Posee habilidades para resolver problemas, disponibilidad para viajar, capacidad para el trabajo bajo presión, sentido de pertenencia, amistoso y eficiente, comprometido con los objetivos de la empresa, puntual y responsable, con alto interés en el aprendizaje, apasionado por la estadistica y la ciencia de datos, emprendedor y creativo.
