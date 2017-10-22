@@ -2,7 +2,7 @@
 # Projects widget.
 # This widget displays all projects from `content/project/`.
 
-date = "2016-04-20T00:00:00"
+date = "2017-10-20T00:00:00"
 draft = false
 
 title = "Habilidades"
@@ -15,7 +15,7 @@ weight = 30
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 
