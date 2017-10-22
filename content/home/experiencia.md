@@ -40,7 +40,7 @@ de entrega de datos a cliente.
   + **Cargo**: 
   _Estadístico Jr._, Behavioral Methods.
   + **Funciones**:
-  Evaluar el riego de sesgo en la muestra ante la incorporacion de nuevas tecnologias.
+  Evaluar el riesgo de sesgo en la muestra ante la incorporacion de nuevas tecnologias.
   + **Logros**:
   Detección de heterogeneidad de poblaciones mediante la aplicación de modelos de regresion logistica.
   Creación de grupos por medio de análisis de clúster.
@@ -72,6 +72,6 @@ de entrega de datos a cliente.
   Desarrollo de un modelo de regresión no lineal para el análisis y estimación de la producción de petróleo de los yacimientos.
   Validación de los datos de producción.
   Desarrollo de modelos de series de tiempo (ARIMA y Regresión dinámica), para el análisis y estimación de la producción de petróleo de los pozos.
-  Estimar y validad los valores de declinación de producción.
+  Estimar y validar los valores de declinación de producción.
   
   
