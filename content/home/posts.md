@@ -10,7 +10,7 @@ subtitle = ""
 widget = "posts"
 
 # Order that this section will appear in.
-weight = 70
+weight = 50
 
 # Filter posts by tag.
 #  By default, show all recent posts.
