@@ -10,7 +10,7 @@ subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 10
+weight = 15
 
 +++
 * **Servicios Equifax Chile Ltda.**: _Marzo 2016 - Actualmente_. 

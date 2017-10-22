@@ -9,11 +9,11 @@ publication_short = ""
 selected = true
 title = "Curriculum"
 url_word = "#"
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "https://drive.google.com/open?id=0BxJgs02wjFCFNE5yLTZ2LVNZalU"
 
 [[url_custom]]
 name = "Word"
-url = "http://www.example.org"
+url = "https://drive.google.com/open?id=0BxJgs02wjFCFSEgwb1JtVktVZ0E"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

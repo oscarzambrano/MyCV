@@ -34,11 +34,11 @@ defaultContentLanguageInSubdir = true
 
   # Your details.
   name = "Oscar Zambrano"
-  role = "Estadistico"
+  role = "Data Analyst, Quality Assurance"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ ]
+  organizations = [ {name="Equifax Chile S.A.", url="https://soluciones.equifax.cl/"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "yo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
