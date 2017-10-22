@@ -2,7 +2,7 @@
 
 - id: toggle_navigation
   translation: Barra de navegación
-
+  
 # Buttons
 
 - id: btn_details
@@ -29,7 +29,7 @@
 # About widget
 
 - id: interests
-  translation: Interés
+  translation: Intereses
 
 - id: education
   translation: Educación

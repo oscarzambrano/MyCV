@@ -5,10 +5,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/en/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/en/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/categories/" hreflang="es"/>
     
-      <loc>/oscarzambrano.name/en/</loc>
+      <loc>/en/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -17,10 +17,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/en/categories/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/categories/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/en/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
     
-      <loc>/oscarzambrano.name/en/categories/</loc>
+      <loc>/en/</loc>
       <priority>0</priority>
     </url>
     
@@ -29,22 +29,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/en/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/publication_types/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/en/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/" hreflang="es"/>
     
-      <loc>/oscarzambrano.name/en/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/en/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/tags/" hreflang="es"/>
-    
-      <loc>/oscarzambrano.name/en/tags/</loc>
+      <loc>/en/tags/</loc>
       <priority>0</priority>
     </url>
     

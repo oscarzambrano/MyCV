@@ -5,7 +5,43 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/post/</loc>
+      <loc>/es/publication/curriculo/</loc>
+      <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/es/project/software/</loc>
+      <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/es/project/tecnicas/</loc>
+      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/es/project/idiomas/</loc>
+      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/es/post/</loc>
       <lastmod>2017-01-01T00:00:00-03:00</lastmod>
     </url>
     
@@ -14,7 +50,7 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/tags/academic/</loc>
+      <loc>/es/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,52 +59,7 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/post/getting-started/</loc>
+      <loc>/es/post/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00-03:00</lastmod>
     </url>
     
@@ -77,7 +68,7 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/post/widgets/</loc>
+      <loc>/es/post/widgets/</loc>
       <lastmod>2016-04-19T00:00:00-03:00</lastmod>
     </url>
     
@@ -86,7 +77,7 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/post/managing-content/</loc>
+      <loc>/es/post/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00-03:00</lastmod>
     </url>
     
@@ -95,7 +86,7 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/post/writing-markdown-latex/</loc>
+      <loc>/es/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00-03:00</lastmod>
     </url>
     
@@ -104,16 +95,7 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>/es/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -122,7 +104,7 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/post/migrate-from-jekyll/</loc>
+      <loc>/es/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-03:00</lastmod>
     </url>
     
@@ -131,17 +113,8 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>/es/tags/academic/</loc>
+      <lastmod>2017-09-03T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -150,8 +123,10 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <xhtml:link rel="alternate" href="/es/categories/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/en/categories/" hreflang="en"/>
+    
+      <loc>/es/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -160,10 +135,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/en/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/en/" hreflang="en"/>
     
-      <loc>/oscarzambrano.name/</loc>
+      <loc>/es/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -173,39 +148,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/categories/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/en/categories/" hreflang="en"/>
-    
-      <loc>/oscarzambrano.name/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/tags/hugo/</loc>
+      <loc>/es/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
@@ -215,7 +158,17 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/tags/jekyll/</loc>
+      <loc>/es/tags/idiomas/</loc>
+      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/es/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
@@ -225,7 +178,7 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/tags/plot/</loc>
+      <loc>/es/tags/muestra/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -235,30 +188,7 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/publication_types/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/en/publication_types/" hreflang="en"/>
-    
-      <loc>/oscarzambrano.name/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/oscarzambrano.name/categories/r/</loc>
+      <loc>/es/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -268,7 +198,17 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/tags/r-markdown/</loc>
+      <loc>/es/project/</loc>
+      <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/es/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -278,7 +218,7 @@
     
     <url>
     
-      <loc>/oscarzambrano.name/tags/regression/</loc>
+      <loc>/es/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -288,11 +228,41 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/tags/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/oscarzambrano.name/en/tags/" hreflang="en"/>
+      <loc>/es/tags/regression/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
     
-      <loc>/oscarzambrano.name/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  
+    
+    
+    <url>
+    
+      <loc>/es/tags/software/</loc>
+      <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/tags/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/en/tags/" hreflang="en"/>
+    
+      <loc>/es/tags/</loc>
+      <lastmod>2017-09-03T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/es/tags/tecnicas/</loc>
+      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

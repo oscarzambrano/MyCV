@@ -1,9 +1,9 @@
 baseurl = "/"  
-title = "Academic"
-copyright = "&copy; 2017 Your Name"
+title = "Curriculum Vitae"
+copyright = "&copy; 2017 Oscar Zambrano"
 theme = "hugo-academic"
 enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
+footnotereturnlinkcontents = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 paginate = 10
 
@@ -15,7 +15,7 @@ googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "es"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 [outputs]
   home = [ "HTML", "CSS" ]
@@ -34,7 +34,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Oscar Zambrano"
-  role = "Data Scientist"
+  role = "Estadistico"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -42,11 +42,10 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "yo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
+  email = "oscar.zambrano.cl@gmail.com"
   address = "Santiago RM, Chile."
   phone = "+56 9 986 44357"
-  skype = "echo123"
-  telegram = ""
+  
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -60,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -138,22 +137,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
+    link = "mailto:oscar.zambrano.cl@gmail.com"
+    
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://www.linkedin.com/in/oscarzambranoparra"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    icon = "google-plus"
+    icon_pack = "fa"
+    link = "https://plus.google.com/u/0/103661675455267658325"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/oscarzambrano"
 
 
 # Navigation Links
@@ -162,56 +161,36 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "Home"
-  url = "#about"
+  name = "Presentación"
+  url = "#resumen"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Experiencia"
+  url = "#experiencia"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
+  name = "Habilidades"
   url = "#projects"
+  weight = 3
+  
+[[menu.main]]
+  name = "Educación"
+  url = "#educacion"
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Contacto"
+  url = "#contact"
   weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[Languages.en]
-  languageCode = "en-us"
-    publication_types = [
-    'Uncategorized',  # 0
-    'Conference proceedings',  # 1
-    'Journal',  # 2
-    'Work in progress',  # 3
-    'Technical report',  # 4
-    'Book',  # 5
-    'Book chapter'  # 6
-  ]
 [Languages.es]
   languageCode = "es-es"
     publication_types = [
