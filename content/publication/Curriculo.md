@@ -9,11 +9,11 @@ publication_short = ""
 selected = true
 title = "Curriculum"
 url_word = "#"
-url_pdf = "https://drive.google.com/open?id=0BxJgs02wjFCFNE5yLTZ2LVNZalU"
+url_pdf = "https://drive.google.com/file/d/1GbdINAMvDhH4mnyQPqnrUibPG8-VbfCm/view?usp=sharing"
 
 [[url_custom]]
 name = "Word"
-url = "https://drive.google.com/open?id=0BxJgs02wjFCFSEgwb1JtVktVZ0E"
+url = "https://docs.google.com/document/d/1EYcG5jEXBoVkwmkRjyz0AKSBPDgbGa6lN-cFy0lnZl0/edit?usp=sharing"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
