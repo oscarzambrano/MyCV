@@ -41,7 +41,7 @@ defaultContentLanguageInSubdir = true
   organizations = [ {name="Equifax Chile S.A.", url="https://soluciones.equifax.cl/"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "yo2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "yo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "oscar.zambrano.cl@gmail.com"
   address = "Santiago RM, Chile."
   phone = "+56 9 986 44357"
