@@ -33,6 +33,8 @@ __*Bachiller en ciencias*__, egresado de la Unidad de Educación Media “Tulio 
 <center>**_Cursos y talleres_**</center>
 <hr></hr>
 
+- Queryng MICROSOFT SQL Server, _Sonda Training_, Santiago 2017
+
 - Inglés como segunda lengua, _HAY-HEL_, San Juan de Colón Edo. Táchira, Venezuela.
 
 - Inglés nivel I y II _Extensión Universidad Nacional Experimental del Táchira_, San Juan de Colón Edo. Táchira, Venezuela.
