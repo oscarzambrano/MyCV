@@ -30,4 +30,4 @@ weight = 5
 
 ## Resumen
 
-Graduado en Estadística, con experiencia en el desarrollo y ajuste de modelos estadísticos y análisis de datos de tipo económicos, sociales y comerciales, experiencia en el sector público y privado, alto desenvolvimiento en el área de base de datos y programación. Habilidad para resolver problemas, sentido de pertenencia, amistoso y eficiente, comprometido con los objetivos de la empresa, puntual y responsabilidad, con alto interés en el aprendizaje, emprendedor, creativo.
+Graduado en Estadística, con experiencia en el desarrollo y ajuste de modelos estadísticos, análisis de datos de tipo económicos, sociales y comerciales, experiencia en el sector público y privado, alto desenvolvimiento en el área de base de datos y programación. Habilidad para resolver problemas, con sentido de pertenencia, amistoso, eficiente, comprometido con los objetivos de la empresa, alto interés en el aprendizaje, emprendedor y creativo.
