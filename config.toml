@@ -1,6 +1,6 @@
 baseurl = "/"  
 title = "Curriculum Vitae"
-copyright = "&copy; 2017 Oscar Zambrano"
+copyright = "&copy; 2019 Oscar Zambrano"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = ""
@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = true
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, or `coffee`.
-  color_theme = "coffee"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -34,11 +34,11 @@ defaultContentLanguageInSubdir = true
 
   # Your details.
   name = "Oscar Zambrano"
-  role = "Data Analyst, Quality Assurance"
+  role = "Data Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ {name="Equifax Chile S.A.", url="https://soluciones.equifax.cl/"} ]
+  organizations = [ {name="", url=""} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Picture.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

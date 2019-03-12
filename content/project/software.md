@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2017-10-03"
+date = "2019-03-11"
 
 # Project title.
 title = "Software"
@@ -9,7 +9,7 @@ title = "Software"
 summary = "Manejo de herramientas de software"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "software.png"
+image_preview = "Herramientas.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["r", "python", "spark", "SQL"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "Software.jpeg"
-caption = "\\+ Mediante R"
+image = "Herramientas.jpeg"
+caption = "..."
 
 +++
 

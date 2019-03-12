@@ -13,10 +13,10 @@ widget = "custom"
 weight = 15
 
 +++
-* **Servicios Equifax Chile Ltda.**: _Marzo 2016 - Actualmente_. 
+* **Servicios Equifax Chile Ltda.**: _Marzo 2017 - Actualmente_. 
   + **Cargo**: 
   _Analista de Datos_
-  . Datos - Marketing Services, gerencia de operaciones.
+  . Datos & Marketing Services, gerencia de operaciones.
   + **Funciones**: 
   Asegurar y optimizar los procesos de actualización periódica de bases de datos y
 de entrega de datos a cliente.
@@ -24,10 +24,11 @@ de entrega de datos a cliente.
   Automatización de procesos de actualización de datos desde la WEB.
   Desarrollo aplicación en shiny R para el enriquecimiento, cruce y extracción de datos.
   Creacion de dashboard para la entrega de reportes operacionales a la gerencia.
-
+  Automatizacion de procesos operacionales de actualizacion de datos a plataformas WEB.
+  
 <hr></hr>
 
-* **Data Conversion Service S.A.**: _Octubre de 2016 – Marzo 2016_.
+* **Data Conversion Service S.A.**: _Octubre de 2016 – Marzo 2017_.
   + **Cargo**:
   _Analista Estadistico_. Proyecto para EMARESA S.A
   + **Funciones**:
