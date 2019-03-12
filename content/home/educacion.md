@@ -32,6 +32,12 @@ __*Bachiller en ciencias*__, egresado de la Unidad de Educación Media “Tulio 
 <center>**_Cursos y talleres_**</center>
 <hr></hr>
 
+- PM ONE Workshop, _Equifax_,  Santiago 2018.
+
+- Analista BI en la plataforma PentaHo, _Kibernum Academy_, Santiago 2018.
+
+- Yellow Belt Lean, programa _LEAN Equifax_, Santiago 2018.
+
 - Queryng MICROSOFT SQL Server, _Sonda Training_, Santiago 2017
 
 - Inglés como segunda lengua, _HAY-HEL_, San Juan de Colón Edo. Táchira, Venezuela.
